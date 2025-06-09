@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0012-integer-to-roman) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
