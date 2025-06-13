@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Array
+|  |
+| ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
