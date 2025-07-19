@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0011-container-with-most-water) |
 | [0057-insert-interval](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0057-insert-interval) |
 | [0594-longest-harmonious-subsequence](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0594-longest-harmonious-subsequence) |
+| [0978-valid-mountain-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0978-valid-mountain-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
