@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0011-container-with-most-water) |
 | [0057-insert-interval](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0057-insert-interval) |
 | [0594-longest-harmonious-subsequence](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0594-longest-harmonious-subsequence) |
+| [0917-boats-to-save-people](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0917-boats-to-save-people) |
 | [0978-valid-mountain-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0978-valid-mountain-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -51,17 +52,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0011-container-with-most-water) |
+| [0917-boats-to-save-people](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0917-boats-to-save-people) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sorting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0594-longest-harmonious-subsequence) |
+| [0917-boats-to-save-people](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0917-boats-to-save-people) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0011-container-with-most-water) |
+| [0917-boats-to-save-people](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0917-boats-to-save-people) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sliding Window
 |  |
