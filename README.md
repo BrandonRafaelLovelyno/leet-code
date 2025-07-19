@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0011-container-with-most-water) |
 | [0057-insert-interval](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0057-insert-interval) |
 | [0594-longest-harmonious-subsequence](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0011-container-with-most-water) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sorting
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0011-container-with-most-water) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sliding Window
 |  |
