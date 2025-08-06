@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2689-rearranging-fruits](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3791-fruits-into-baskets-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -100,8 +102,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
