@@ -10,7 +10,7 @@ var dict = make(map[DictKey]float64)
 func soupServings(n int) float64 {
     u := int(math.Ceil(float64(n)/25))
 
-    if u > 500 {
+    if u > 175 {
         return 1
     }
 
