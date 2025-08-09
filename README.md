@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0012-integer-to-roman](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0231-power-of-two) |
+| [0826-soup-servings](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0826-soup-servings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0118-pascals-triangle) |
+| [0826-soup-servings](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0826-soup-servings) |
 ## Segment Tree
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
