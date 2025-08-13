@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0012-integer-to-roman](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
