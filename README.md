@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0012-integer-to-roman](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0231-power-of-two](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
