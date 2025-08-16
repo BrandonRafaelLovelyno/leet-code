@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0342-power-of-four](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0011-container-with-most-water](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0011-container-with-most-water) |
 | [0917-boats-to-save-people](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0917-boats-to-save-people) |
+| [1448-maximum-69-number](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1448-maximum-69-number) |
 | [2689-rearranging-fruits](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
