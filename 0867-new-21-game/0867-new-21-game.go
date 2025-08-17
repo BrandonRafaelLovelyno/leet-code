@@ -3,10 +3,11 @@ func new21Game(n int, k int, maxPts int) float64 {
 		return 1.0
 	}
 
-	dp,sw := []float64{1},1.0
+	dp,sw := make([]float64,n+1),1.0
+	dp[0] = 1.0
 
 	for i := 1; i <= n; i++{
-		dp = append(dp,sw/float64(maxPts))
+		dp[i] = sw / float64(maxPts)
 		
 		if i < k{
 			sw += dp[i]
