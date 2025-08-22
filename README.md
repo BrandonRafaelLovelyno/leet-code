@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2529-range-product-queries-of-powers](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2529-range-product-queries-of-powers) |
+## Matrix
+|  |
+| ------- |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 <!---LeetCode Topics End-->
