@@ -1,40 +1,40 @@
-import "math"
-
 func longestSubarray(nums []int) int {
-	ans, summary := 0, []int{}
+	ans,left,isAllOnes := 0, 0, true
 
-	i := 0
-	for i < len(nums) {
-		j := i + 1
-		for j < len(nums) && nums[j] == nums[i] {
-			j++
+	for left < len(nums){
+		if nums[left] == 0 {
+			isAllOnes = false
+			left++
+			continue
 		}
-		summary = append(summary, j-i)
-		i = j
-	}
 
-	if zeroFirst := nums[0] == 0; zeroFirst {
-		i = 1
-	} else {
-		i = 0
-	}
-
-	for i < len(summary) {
-		ans = int(math.Max(float64(ans), float64(summary[i])))
-
-		if i+2 < len(summary) {
-			if summary[i+1] < 2 {
-				ans = int(math.Max(float64(ans), float64(summary[i]+summary[i+2])))
+		right, divider,zeroCount := left,left,0
+		for right < len(nums) && zeroCount < 2 {
+			if nums[right] == 1 {
+				ans = max(ans, (right - left + 1) - zeroCount)
+			} else {
+				isAllOnes = false
+				zeroCount++
+				if zeroCount == 1 {
+					divider = right
+				}
 			}
-			i += 2
-		} else {
-			break
+			right++
 		}
+
+		left = divider + 1
 	}
 
-	if len(summary) < 2 && ans != 0 {
+	if isAllOnes && ans != 0 {
 		ans--
 	}
 
 	return ans
+}
+
+func max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
 }
