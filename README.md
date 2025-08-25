@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0011-container-with-most-water) |
 | [0057-insert-interval](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0118-pascals-triangle) |
+| [0498-diagonal-traverse](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0917-boats-to-save-people) |
 | [0978-valid-mountain-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0978-valid-mountain-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0498-diagonal-traverse) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0498-diagonal-traverse) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 <!---LeetCode Topics End-->
