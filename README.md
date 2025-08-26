@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2529-range-product-queries-of-powers](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3790-fruits-into-baskets-ii) |
