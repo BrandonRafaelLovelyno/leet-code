@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0917-boats-to-save-people](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0917-boats-to-save-people) |
 | [2689-rearranging-fruits](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3748-sort-matrix-by-diagonals](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,4 +160,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0498-diagonal-traverse](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0498-diagonal-traverse) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
