@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0978-valid-mountain-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0978-valid-mountain-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1917-maximum-average-pass-ratio](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1917-maximum-average-pass-ratio) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0011-container-with-most-water) |
 | [0917-boats-to-save-people](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0917-boats-to-save-people) |
 | [1448-maximum-69-number](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3748-sort-matrix-by-diagonals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
