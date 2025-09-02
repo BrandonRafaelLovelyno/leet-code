@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0867-new-21-game](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1448-maximum-69-number) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2689-rearranging-fruits](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3748-sort-matrix-by-diagonals) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0917-boats-to-save-people) |
 | [2689-rearranging-fruits](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2689-rearranging-fruits) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3748-sort-matrix-by-diagonals](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Prefix Sum
 |  |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1917-maximum-average-pass-ratio) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
