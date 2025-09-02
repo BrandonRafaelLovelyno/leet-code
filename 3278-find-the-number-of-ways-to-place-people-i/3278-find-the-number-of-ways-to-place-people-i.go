@@ -18,30 +18,32 @@ func (arr ByXThenY) Swap(i, j int) {
 	arr[i], arr[j] = arr[j], arr[i]
 }
 
+
 func numberOfPairs(points [][]int) int {
 	ans := 0
 	sort.Sort(ByXThenY(points))
-	for iLeft, left := range points {
-		for j, right := range points[iLeft+1:] {
-			iRight := iLeft + 1 + j
-			if left[1] >= right[1] {
-				if iRight-iLeft == 1 {
-					ans++
-				} else {
-					for i, p := range points[iLeft+1 : iRight] {
-						if p[1] > left[1] || p[1] < right[1] {
-							if i+iLeft+1 == iRight-1 {
-								fmt.Println(points[iLeft], points[iRight])
-								ans++
-							}
-						} else {
-							break
-						}
-					}
-				}
+	
+	for i := 0; i < len(points); i++{
+		for j := i+1; j < len(points); j++{
+			left, right := points[i], points[j]
+
+			if left[1] < right[1]{
+				continue
+			}
+
+			invalid := false
+			for k := i+1; k < j; k++{
+				if points[k][1] <= points[i][1] && points[k][1] >= points[j][1]{
+					invalid = true
+					break
+				} 
+			}
+
+			if !invalid{
+				ans++
 			}
 		}
 	}
 
-	return ans
+    return ans
 }
