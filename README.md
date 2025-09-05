@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0231-power-of-two](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Prefix Sum
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
