@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0826-soup-servings](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1448-maximum-69-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0594-longest-harmonious-subsequence](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0917-boats-to-save-people) |
 | [0978-valid-mountain-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0978-valid-mountain-array) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1917-maximum-average-pass-ratio) |
