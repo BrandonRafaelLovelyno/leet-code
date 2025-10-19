@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0012-integer-to-roman) |
+| [1651-shuffle-string](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1651-shuffle-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3617-find-the-original-typed-string-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3617-find-the-original-typed-string-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1651-shuffle-string](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1651-shuffle-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1917-maximum-average-pass-ratio) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2316-count-hills-and-valleys-in-an-array) |
