@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1448-maximum-69-number) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
