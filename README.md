@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0342-power-of-four) |
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
