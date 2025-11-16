@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0012-integer-to-roman](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0242-valid-anagram) |
 | [1651-shuffle-string](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1651-shuffle-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0917-boats-to-save-people) |
