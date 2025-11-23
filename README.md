@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0012-integer-to-roman](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0057-insert-interval](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0917-boats-to-save-people) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0217-contains-duplicate](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0917-boats-to-save-people) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/1917-maximum-average-pass-ratio) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
@@ -236,4 +241,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0092-reverse-linked-list-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
