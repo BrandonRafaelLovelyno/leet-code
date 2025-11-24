@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0057-insert-interval](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0594-longest-harmonious-subsequence) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0238-product-of-array-except-self) |
 | [2529-range-product-queries-of-powers](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/2529-range-product-queries-of-powers) |
 ## Matrix
 |  |
