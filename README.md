@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0347-top-k-frequent-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0036-valid-sudoku) |
 | [0057-insert-interval](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0217-contains-duplicate) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/0498-diagonal-traverse) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BrandonRafaelLovelyno/leet-code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
