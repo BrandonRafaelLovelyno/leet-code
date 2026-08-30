@@ -1,26 +1,18 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        if len(s) == 1 :
-            return False
-
         stack = []
-        opening = ["(", "{", "["]
+        brackets = {
+            ")": "(",
+            "}": "{",
+            "]": "["
+        }
 
         for c in s:
-            if c in opening:
-                stack.append(c)
-            else:
-                if len(stack) == 0 or not self.isValidClosing(stack[-1], c):
+            if c in brackets:
+                if len(stack) == 0 or brackets[c] != stack[-1]:
                     return False
                 stack.pop()
+            else:
+                stack.append(c)
 
         return len(stack) == 0
-
-    def isValidClosing(self, s, t):
-        if s == "(":
-            return t == ")"
-        elif s == "{":
-            return t == "}"
-        elif s == "[":
-            return t == "]"
-        return False
