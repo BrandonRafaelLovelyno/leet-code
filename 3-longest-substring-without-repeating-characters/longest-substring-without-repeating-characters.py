@@ -1,27 +1,19 @@
 class Solution:
-    def check_duplicate(self, ss):
-        for c in ss:
-            cc = ss.count(c)
-            if cc > 1:
-                return True
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        seen = set()
+        longest = 0
 
-        return False
-
-    def lengthOfLongestSubstring(self, s):
-        ans = 1 if len(s) > 0 else 0
-        
-        i, j = 0, 1
-        while j < len(s):
-            if self.check_duplicate(s[i : j + 1]):
-                if j == i + 1:
-                    j += 1
-                else:
-                    i += 1
+        start, i = 0, 0
+        while i < len(s):
+            if s[i] not in seen:
+                seen.add(s[i])
+                longest = max(longest, i - start + 1)
             else:
-                temp = j - i + 1
-                if temp > ans:
-                    ans = temp
-                
-                j += 1
+                while s[i] in seen:
+                    seen.remove(s[start])
+                    start += 1
+                seen.add(s[i])
+            i += 1
+        
+        return longest
 
-        return ans
