@@ -1,16 +1,19 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        tree = []
-        def dfs(i, t):
-            if i < len(nums):
-                dfs(i+1, t+[nums[i]])
-                dfs(i+1, t)
-            else:
-                tree.append(t)
-                print(t)
-                print(tree)
+        tree, curr = [], []
+        length = len(nums)
 
-        dfs(0, [])
+        def dfs(i):
+            if not i < length:
+                tree.append(curr.copy())
+                return
+            
+            curr.append(nums[i])
+            dfs(i+1)
+            curr.pop()
+            dfs(i+1)
+
+        dfs(0)
 
         return tree
 
